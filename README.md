@@ -16,7 +16,7 @@ Esto esta **en negritas** o en *itálicas*
 
 Y le hacemos una modificación
 
-Y aqui vemos [otro archivo](otro.md)
+Y aqui vemos [otro archivo](otro.md) que me gusta.
 
 Este es un repositorio de prueba y [este es un link a wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
 
