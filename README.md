@@ -16,5 +16,7 @@ Esto esta **en negritas** o en *itálicas*
 
 Y le hacemos una modificación
 
+Y aqui vemos [otro archivo](otro.md)
+
 Este es un repositorio de prueba y [este es un link a wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
 
