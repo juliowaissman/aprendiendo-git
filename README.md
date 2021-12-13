@@ -1,25 +1,13 @@
-# Titulo
-## Subtitulo
+# Esta es una historia colaborativa
+
+En el pais de salsipuedes habia un mounstro muy feo
+
+![](https://investigadores.unison.mx/files-asset/5091561/142.jpg?w=160&f=jpg)
+
+y quería que escribieran una historia colaborativa los habitantes del reino.
+
+....
 
 
-Y esto es lo que estaba por hacer
 
-1. Esta es
-2. Una lista
-3. y ahi viene
-
-- Esta es
-- Una lista
-- con puntos
-
-Esto esta **en negritas** o en *itálicas*
-
-- [x] Hecho
-- [ ] Por hacer
-
-Y le hacemos una modificación
-
-Y aqui vemos [otro archivo](otro.md) que me gusta.
-
-Este es un repositorio de prueba y [este es un link a wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
-
+Si decides hacer A entonces [ve a este enlace](uno.md), pero sidecides hacer B entonce ve a [este otro enlace](dos.md)
