@@ -1,4 +1,4 @@
-##Haz elegido discutir tu condena con Alfredo Durazo
+# Haz elegido discutir tu condena con Alfredo Durazo
 Despues de una larga platica te ofrece dos opciones dos opciones
 1.Ofrecerle una feria y quedar libre de todos lo cargos
 2.Intentar ser un ciudadano justo y aceptar tu condena 
