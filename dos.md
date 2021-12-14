@@ -6,4 +6,4 @@ En el borde de la ciudadela encuentras en el camino una división, decide que ca
 
 Camino 1 | Camino 2
 ---------|----------
-[1](seis.md) | [2](siete.md)
+[Pag.6](seis.md) | [Pag.7](siete.md)
