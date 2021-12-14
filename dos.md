@@ -4,6 +4,6 @@ Al verte incapaz de poder controlar a la bestia , decides volverte más fuerte ,
 
 En el borde de la ciudadela encuentras en el camino una división, decide que camino tomar...
 
-[Camino uno](seis.md)
-
-[Camino dos](siete.md)
+Camino 1 | Camino 2
+---------|----------
+[1](seis.md) | [2](siete.md)
